@@ -1,0 +1,31 @@
+Customer_ID,Age,Gender,City,Membership,Visit_Frequency,Preferred_Category,Average_Spend,Payment_Method,Online_Shopping,Discount_Used,Items_Purchased,Satisfaction_Rating
+C001,24,Female,Manila,Gold,Weekly,Clothing,3200,Credit Card,Yes,Yes,5,5
+C002,31,Male,Cebu,Silver,Monthly,Electronics,8500,GCash,Yes,No,2,4
+C003,27,Female,Davao,Bronze,Weekly,Beauty,1800,Cash,No,Yes,4,4
+C004,45,Male,Quezon City,Gold,Daily,Groceries,2400,Debit Card,No,No,12,5
+C005,38,Female,Pasig,Silver,Monthly,Home,5200,Credit Card,Yes,Yes,3,5
+C006,29,Male,Makati,Bronze,Weekly,Sports,3600,GCash,Yes,No,2,4
+C007,22,Female,Taguig,None,Monthly,Clothing,2100,Cash,Yes,Yes,6,4
+C008,34,Male,Pasay,Gold,Weekly,Electronics,11200,Credit Card,Yes,No,1,5
+C009,41,Female,Laguna,Silver,Monthly,Groceries,2900,Debit Card,No,Yes,10,5
+C010,26,Male,Cavite,Bronze,Weekly,Beauty,1700,GCash,Yes,Yes,5,4
+C011,30,Female,Batangas,Gold,Daily,Groceries,3100,Cash,No,No,15,5
+C012,37,Male,Rizal,Silver,Monthly,Home,6500,Credit Card,Yes,Yes,2,4
+C013,25,Female,Manila,None,Weekly,Books,1200,GCash,Yes,Yes,3,5
+C014,44,Male,Cebu,Gold,Monthly,Electronics,9800,Debit Card,Yes,No,2,4
+C015,33,Female,Davao,Silver,Weekly,Fashion,4100,Credit Card,Yes,Yes,4,5
+C016,21,Male,Makati,None,Monthly,Sports,2400,Cash,No,Yes,3,4
+C017,28,Female,Pasig,Bronze,Weekly,Beauty,2300,GCash,Yes,Yes,5,5
+C018,39,Male,Quezon City,Gold,Daily,Groceries,3500,Debit Card,No,No,14,5
+C019,35,Female,Cavite,Silver,Monthly,Home,5600,Credit Card,Yes,No,2,4
+C020,42,Male,Laguna,Gold,Weekly,Electronics,10400,Credit Card,Yes,Yes,1,5
+C021,23,Female,Taguig,None,Weekly,Clothing,1900,GCash,Yes,Yes,5,4
+C022,47,Male,Batangas,Gold,Monthly,Home,7200,Debit Card,No,No,3,5
+C023,32,Female,Rizal,Silver,Weekly,Beauty,2800,Cash,Yes,Yes,6,5
+C024,36,Male,Pasay,Bronze,Monthly,Books,1500,GCash,Yes,Yes,4,4
+C025,40,Female,Manila,Gold,Weekly,Groceries,3300,Credit Card,No,No,13,5
+C026,27,Male,Makati,Silver,Weekly,Sports,3900,Debit Card,Yes,Yes,3,4
+C027,29,Female,Cebu,Bronze,Monthly,Fashion,4300,GCash,Yes,Yes,5,5
+C028,46,Male,Davao,Gold,Daily,Electronics,12500,Credit Card,Yes,No,2,5
+C029,24,Female,Cavite,None,Weekly,Beauty,2000,Cash,Yes,Yes,4,4
+C030,38,Male,Laguna,Silver,Monthly,Home,6100,Debit Card,No,No,3,4
